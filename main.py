@@ -6,7 +6,7 @@ import pandas as pd
 from datetime import datetime
 
 """
-Automação de mensagem padrão de cobrança no Onvio Messenger para clientes que estão com pagamento atrasado 
+Automação para filtrar linhas de um arquivo Excel e gerar um arquivo JSON com os eventos futuros.
 
 """
 
